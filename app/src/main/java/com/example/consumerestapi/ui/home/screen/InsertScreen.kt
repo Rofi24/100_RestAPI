@@ -55,6 +55,13 @@ fun FormInputSiswa(
             modifier = Modifier.fillMaxWidth(),
             enabled = enabled
         )
+        
+        if (enabled) {
+            Text(
+                text = "Isi Semua Data",
+                modifier = Modifier.padding(start = 12.dp)
+             )
+        }
 
         Divider(
             thickness = 8.dp,
