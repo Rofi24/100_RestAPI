@@ -23,7 +23,7 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.consumerestapi.navigation.DestinasiNavigasi
-import com.example.consumerestapi.ui.PenyediaViewModel
+import com.example.consumerestapi.ui.home.viewmodel.PenyediaViewModel
 import com.example.consumerestapi.ui.TopAppBarKontak
 import com.example.consumerestapi.ui.home.viewmodel.InsertUiEvent
 import com.example.consumerestapi.ui.home.viewmodel.InsertUiState
